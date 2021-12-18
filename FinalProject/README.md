@@ -1,4 +1,4 @@
-## Final Project
+## Final Project - Book Recommendation System
 ## INFO7374-Algorithmic-Digital-Marketing
 ## Team 2:
 Pranali Vedpathak (NUID: 001567143)
