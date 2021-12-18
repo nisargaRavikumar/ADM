@@ -5,7 +5,7 @@ Pranali Vedpathak (NUID: 001567143)
 
 Nisarga Ravikumar (NUID: 001521753)
 
-## Introduction :
+## Introduction
 Goodreads was established with the intention of getting people excited about reading. In order to exhilarate people, they need to be made aware of exciting books. Consequently, entitling them to read it and share their experiences with others. 
 
 We all have faced the disappointment of not so helpful suggestions about books from the author we love. A good recommendation system comes a long way with helping us find good books. 
@@ -13,7 +13,7 @@ We all have faced the disappointment of not so helpful suggestions about books f
 The recommendation system that we have built in this project combines multiple algorithms to analyze a myriad number of data points to provide excellent recommendations about the book that the user might be interested in reading next. It lays out a connection between books and users by how often they come under the same bookshelves and whether the same people loved reading it.
 
 
-## Objectives :
+## Objectives
 1. Building recommendation system for the users which will recommend the similar books on the basis of book ratings
 
 2. To give 5 books recommendations based on the users interested books 
@@ -27,15 +27,15 @@ The recommendation system that we have built in this project combines multiple a
 6. To build a simple web application to show the recommendations to the users 
 
 
-## Architecture :
+## Architecture
 
 ![alt text](https://github.com/nisargaRavikumar/ADM/blob/master/FinalProject/architecture.jpg)
 
 
-## Web App Link:
+## Web App Link
 https://share.streamlit.io/nisargaravikumar/finalstreamlit/finalst.py
 
-## Tableau Public Links :
+## Tableau Public Links
 
 
 **Goodreads analytics Dashboard :**   https://public.tableau.com/app/profile/pranali5420/viz/ADM_Goodreads/Dashboard1
@@ -45,3 +45,9 @@ https://public.tableau.com/app/profile/pranali5420/viz/SalesandInventoryForecast
 
 **Cohort Analysis Dashboard :** 
 https://public.tableau.com/app/profile/pranali5420/viz/CohortAnalysis_16397956088980/CohortAnalysisUserAcquisitionandRetention
+
+## References
+https://towardsdatascience.com/machine-learning-for-store-demand-forecasting-and-inventory-optimization-part-1-xgboost-vs-9952d8303b48
+https://www.mobilize.net/blog/using-the-snowflake-connector-in-python-to-directly-load-data
+https://towardsdatascience.com/a-step-by-step-introduction-to-cohort-analysis-in-python-a2cbbd8460ea
+https://www.analyticsvidhya.com/blog/2021/06/deploy-your-ml-dl-streamlit-application-on-heroku/
