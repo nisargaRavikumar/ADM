@@ -31,6 +31,8 @@ The recommendation system that we have built in this project combines multiple a
 
 ![alt text](https://github.com/nisargaRavikumar/ADM/blob/master/FinalProject/architecture.jpg)
 
+## Codelabs link
+https://codelabs-preview.appspot.com/?file_id=1oPUyaXUlF9eHboBrE1YdvbGymmR8se6VhEg4U06FYCA#0
 
 ## Web App Link
 https://share.streamlit.io/nisargaravikumar/finalstreamlit/finalst.py
@@ -48,7 +50,11 @@ https://public.tableau.com/app/profile/pranali5420/viz/CohortAnalysis_1639795608
 
 ## References
 https://towardsdatascience.com/machine-learning-for-store-demand-forecasting-and-inventory-optimization-part-1-xgboost-vs-9952d8303b48
+
 https://www.mobilize.net/blog/using-the-snowflake-connector-in-python-to-directly-load-data
+
 https://towardsdatascience.com/a-step-by-step-introduction-to-cohort-analysis-in-python-a2cbbd8460ea
+
 https://www.analyticsvidhya.com/blog/2021/06/deploy-your-ml-dl-streamlit-application-on-heroku/
+
 https://www.analyticsvidhya.com/blog/2020/12/deploying-machine-learning-models-using-streamlit-an-introductory-guide-to-model-deployment/
