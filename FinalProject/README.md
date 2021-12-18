@@ -51,3 +51,4 @@ https://towardsdatascience.com/machine-learning-for-store-demand-forecasting-and
 https://www.mobilize.net/blog/using-the-snowflake-connector-in-python-to-directly-load-data
 https://towardsdatascience.com/a-step-by-step-introduction-to-cohort-analysis-in-python-a2cbbd8460ea
 https://www.analyticsvidhya.com/blog/2021/06/deploy-your-ml-dl-streamlit-application-on-heroku/
+https://www.analyticsvidhya.com/blog/2020/12/deploying-machine-learning-models-using-streamlit-an-introductory-guide-to-model-deployment/
