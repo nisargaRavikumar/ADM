@@ -29,6 +29,7 @@ The recommendation system that we have built in this project combines multiple a
 
 ## Architecture :
 
+![alt text](https://github.com/nisargaRavikumar/ADM/blob/master/FinalProject/architecture.jpg)
 
 
 ## Web App Link:
